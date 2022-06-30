@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/archie-api-date/archie-api-date.iml" filepath="$PROJECT_DIR$/archie-api-date/archie-api-date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-api-gui/archie-api-gui.iml" filepath="$PROJECT_DIR$/archie-api-gui/archie-api-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-api-integer/archie-api-integer.iml" filepath="$PROJECT_DIR$/archie-api-integer/archie-api-integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-api-random/archie-api-random.iml" filepath="$PROJECT_DIR$/archie-api-random/archie-api-random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-api-string/archie-api-string.iml" filepath="$PROJECT_DIR$/archie-api-string/archie-api-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-array/archie-array.iml" filepath="$PROJECT_DIR$/archie-array/archie-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-array2/archie-array2.iml" filepath="$PROJECT_DIR$/archie-array2/archie-array2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-continue-break/archie-continue-break.iml" filepath="$PROJECT_DIR$/archie-continue-break/archie-continue-break.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-do-while/archie-do-while.iml" filepath="$PROJECT_DIR$/archie-do-while/archie-do-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-for/archie-for.iml" filepath="$PROJECT_DIR$/archie-for/archie-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-if/archie-if.iml" filepath="$PROJECT_DIR$/archie-if/archie-if.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-literals/archie-literals.iml" filepath="$PROJECT_DIR$/archie-literals/archie-literals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-method/archie-method.iml" filepath="$PROJECT_DIR$/archie-method/archie-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-oop/archie-oop.iml" filepath="$PROJECT_DIR$/archie-oop/archie-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-operator/archie-operator.iml" filepath="$PROJECT_DIR$/archie-operator/archie-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-order/archie-order.iml" filepath="$PROJECT_DIR$/archie-order/archie-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-package-import/archie-package-import.iml" filepath="$PROJECT_DIR$/archie-package-import/archie-package-import.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-switch/archie-switch.iml" filepath="$PROJECT_DIR$/archie-switch/archie-switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-variable/archie-variable.iml" filepath="$PROJECT_DIR$/archie-variable/archie-variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie-while/archie-while.iml" filepath="$PROJECT_DIR$/archie-while/archie-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archie_api_input/archie_api_input.iml" filepath="$PROJECT_DIR$/archie_api_input/archie_api_input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_demo/idea_demo.iml" filepath="$PROJECT_DIR$/idea_demo/idea_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase_code/javase_code.iml" filepath="$PROJECT_DIR$/javase_code/javase_code.iml" />
+    </modules>
+  </component>
+</project>
