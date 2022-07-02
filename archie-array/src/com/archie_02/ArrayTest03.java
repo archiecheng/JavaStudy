@@ -14,12 +14,12 @@ public class ArrayTest03 {
 //        Random r = new Random();
 //        int index = r.nextInt(arr.length);
 //
-////        第一次交换
+//////        第一次交换
 //        int temp = arr[0];
 //        arr[0] = arr[index];
 //        arr[index] = temp;
 //
-////        第二次交换
+//////        第二次交换
 //        index = r.nextInt(arr.length);
 //        temp = arr[1];
 //        arr[1] = arr[index];
@@ -33,11 +33,11 @@ public class ArrayTest03 {
             arr[i] = arr[index];
             arr[index] = temp;
         }
-
 //        遍历数组
-        for (int i = 0; i < arr.length; i++){
+        for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
         }
+
 
     }
 }

@@ -16,6 +16,7 @@ public class ArrayTest01 {
 //        System.out.println(arr[5]);
 
 //        遍历
+//        数组名.length; -> 获取数组长度
 //        for (int i = 0; i < arr.length; i++) {
 //            System.out.println(arr[i]);
 //        }
